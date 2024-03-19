@@ -1,4 +1,3 @@
-<h1>Warning, If you are directed here from the once We were podcast/ARG this page is not in character</h1>
 
 - 👋 Hi, I’m @Raven842, also known as Mossy Moth
 - 👀 I’m interested in web dev, creative writing and many more
