@@ -12,4 +12,6 @@ Raven842/Raven842 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 <h1> My Certs </h1>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a4c566b0-f06e-4170-b54d-2190d19bbb18" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<ol>
+  <li><a href="https://www.credly.com/badges/a4c566b0-f06e-4170-b54d-2190d19bbb18/public_url"> Intro to Cybersec</a></li>
+</ol>
