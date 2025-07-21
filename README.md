@@ -6,3 +6,5 @@ And do a bit of a fresh start in the meantime so, most of the things that used t
 I'll come back properly in a while but until then... farewell and good luck
 
 - signed A very silly fox-kit still figuring things out
+
+(New Pfp under creative commons from dani567 on itch.io - if theres any objection to this specific usage please contact)
