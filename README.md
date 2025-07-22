@@ -5,7 +5,7 @@ And do a bit of a fresh start in the meantime so, most of the things that used t
 
 I'll come back properly in a while but until then... farewell and good luck
 
-- signed A very silly fox-kit still figuring things out
- \n p.s. if you'd like to contact me, expect a wait for the moment but please also use my pgp-key to encrypt the email if possible :3
+- signed A very silly fox-kit still figuring things out \
+  p.s. if you'd like to contact me, expect a wait for the moment but please also use my pgp-key to encrypt the email if possible :3
 
 (New Pfp under creative commons from dani567 on itch.io - if theres any objection to this specific usage please contact)
