@@ -7,9 +7,13 @@ To be honest probably not much for a small while; I[^1] am still on the uphill (
 
 Though the gears of industry and intelect still turn thus I continue to work (for self?) my main projects at the moment are:
 
-  > - * Reading list of the things I can't track on bookwyrm and notes if needed (e.g. textbooks, disserations, etc) \
-  > - * Thesis on effects of chronic non-traumatic stress inherent in societies treatment of Neurodivergent people (focusing on 'late diagnosed' youths and young adults with l1 ASD)          from an own voices perspective
-  > - * My Nix dotfiles for when I eventually move from Arch (btw)
+  > - Reading list of the things I can't track on bookwyrm and notes if needed (e.g. textbooks, disserations, etc) \
+  > - Several Esays of which I hope only one will be thesis length (Why is it always the eepy ones who have ideas?) including but not limited to  
+  >      1. Thesis on effects of chronic non-traumatic stress inherent in societies treatment of Neurodivergent people (focusing on 'late diagnosed' youths and young adults with
+  >         l1 ASD) from an own voices perspective
+  >      2. Essay (I claim this one will not become a thesis but... we shall see) on contemporary internet erotic literature as a commentary on the medical industry (main focus on      >         HDG)
+  >      3. Mycelial network: design an examination of Hyphanet (Formerly freenet) and potential extensions thereof (I don't if this one will get finished)      
+  > - My Nix dotfiles for when I eventually move from Arch (btw)
 
 Current research interests can be found in bio!
 - signed A very silly fox-kit still figuring things out 🦊 \
