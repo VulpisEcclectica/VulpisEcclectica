@@ -1,9 +1,9 @@
 # Welcome weary travellers 
 ------
-### (those arriving from ORCHID if any please be aware this is as much a personal as a research profile) ###
-------
+
 So what exactly can one expect to find here?
-To be honest probably not much for a small while; I[^1] am still on the uphill (one must imagine sisyphus a foxgirl) from some rather rough mental health stuff I'd rather not elaborate on towards the end of 2024, basically -> gotta rest the paws to prevent further burnout.
+To be honest probably not much for a small while; I[^1] am still on the uphill (one must imagine sisyphus a foxgirl) from some rather rough mental health stuff I'd rather not elaborate on towards the end of 2024, basically -> gotta rest the paws to prevent further burnout.   
+Also slight warning; this profile is both research and also personal so as you've already seen silly phrasing abounds! 
 
 Though the gears of industry and intelect still turn thus I continue to work (for self?) my main projects at the moment are:
 
