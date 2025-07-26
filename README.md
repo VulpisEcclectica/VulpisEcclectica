@@ -1,24 +1,34 @@
 # Welcome weary travellers 
-------
+-------------
+## Who/What am I?
+____________________________
+A very silly fox-girl (sometimes kit) and this is my personal/indie research profile so any fun stuff I do for myself including essays which arent affiliated with any '_proper_' research org (whatever that is). Currently I am not working with any institution (you can pet unemployed canids totally!), and am still taking things slow-ish as I get back from some pretty intense burnout (late 2024). I do not and will not work in making generative AI, partially ethics partially I find it boring in comparison to other compsci subjects.
 
-So what exactly can one expect to find here?
-To be honest probably not much for a small while; I[^1] am still on the uphill (one must imagine sisyphus a foxgirl) from some rather rough mental health stuff I'd rather not elaborate on towards the end of 2024, basically -> gotta rest the paws to prevent further burnout.   
-Also slight warning; this profile is both research and also personal so as you've already seen silly phrasing abounds! 
+## What am I interested in?
+_______________________________
+My exact interests vary widely from time to time (such is the hyperfixation->burnout cycle) but mainly and most of the time I am interested in:
+   - Psychology (currently intrested a lot in potential masking => dissacoiative disorders connection[^1])
+   - Philosophy (currently focused on extension of hauntology as redescribed in the _ghosts of the future_ section of _capitalism and nothingness_[^2] to lost potential _selves_ as opposed to society)
+   - Theoretical Computer Science  mainly out their weird internet or storage stuff ** especially if its old ** (gopher, hyphanet [formerly freenet], etc)
+   - Mathematics (not much are of focus currently)
+   - Werid literature both comforting and horrifying
 
-Though the gears of industry and intelect still turn thus I continue to work (for self?) my main projects at the moment are:
+## My stats
+_______________________
+
+-> to be added 
+
+## What am I actually working on
+_______________________
 
    - Reading list of the things I can't track on bookwyrm and notes if needed (e.g. textbooks, disserations, etc) \
    - Several Esays of which I hope only one will be thesis length (Why is it always the eepy ones who have ideas?) including but not limited to  
-        1. Thesis on effects of chronic non-traumatic stress inherent in societies treatment of Neurodivergent people (focusing on 'late diagnosed' youths and young adults with
-           l1 ASD) from an own voices perspective
-        2. Essay (I claim this one will not become a thesis but... we shall see) on contemporary internet erotic literature as a commentary on the medical industry (main focus on               HDG)
-        3. Mycelial network: design an examination of Hyphanet (Formerly freenet) and potential extensions thereof (I don't if this one will get finished)      
+        1. Thesis on effects of chronic non-traumatic stress inherent in societies treatment of Neurodivergent people (focusing on 'late diagnosed' youths and young adults with l1 ASD and issues with the public understanding of the term 'low support needs') from an own voices perspective
+        2. Essay (I claim this one will not become a thesis but... we shall see) on contemporary internet erotic literature as a commentary on the medical industry (main focus on HDG)
+        3. A little look at indie/alt internet technologies (gopher, gemini, hyphanet [formerly freenet], i2p, etc) might end up as blog posts instead of published papers if I can keep things in scope for once    
    - My Nix dotfiles for when I eventually move from Arch (btw)
-
-Current research interests can be found in bio!
-- signed A very silly fox-kit still figuring things out 🦊 \
-  p.s. if you'd like to contact me, expect a wait for the moment but please also use my [pgp-key](https://github.com/VulpisEcclectica/VulpisEcclectica/blob/main/publickey.foxkit.asc) to encrypt the email if possible :3
-
+______________________
 (New Pfp under creative commons from dani567 on itch.io - if theres any objection to this specific usage please contact)
+[^1]: not arrrow here as in A implies B, just symbolising the connection
+[^2]: ISBN: 9781350441903
 
-[^1]: I have previously gone by raven (not plural [possibly dpdr though], just indescisive). A little extra tidbit for those interested in etomology, the name Xenia comes from Xenos meaning both stranger & hospitality (though not the origional interpretation as far as I know I use it to signify masking and how being hospitible made me feel like a stranger to myself [here she goes oversharing again]), and Tulikettu from the finnish fire-fox mythology (less deep of a reason for chosing, i just find the idea interesting and cute)
