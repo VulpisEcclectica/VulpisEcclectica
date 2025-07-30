@@ -28,6 +28,8 @@ _______________________
         3. A little look at indie/alt internet technologies (gopher, gemini, hyphanet [formerly freenet], i2p, etc) might end up as blog posts instead of published papers if I can keep things in scope for once    
    - My Nix dotfiles for when I eventually move from Arch (btw)
 ______________________
+## Things I will likely never do but kinda want to;
+- Rewrite Shell/Cargo-mommy in raw Assembly (As ASM-mummy bc I am an evil aussie)
 (New Pfp under creative commons from dani567 on itch.io - if theres any objection to this specific usage please contact)
 [^1]: not arrrow here as in A implies B, just symbolising the connection
 [^2]: ISBN: 9781350441903
