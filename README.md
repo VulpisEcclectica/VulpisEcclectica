@@ -13,10 +13,10 @@ My exact interests vary widely from time to time (such is the hyperfixation->bur
    - Mathematics (not much are of focus currently)
    - Werid literature both comforting and horrifying
 
-## My stats
+## Most Used languages![^3]
 _______________________
 
--> to be added
+[![Harlok's WakaTime stats](https://github-readme-stats-tawny-five-66.vercel.app/api/wakatime?username=Xenia&api_domain=wakapi.canine.tools&theme=midnight-purple&custom_title=Xen's%20Stats)](https://github.com/anuraghazra/github-readme-stats) 
 
 ## What am I actually working on
 _______________________
@@ -34,4 +34,5 @@ ______________________
 (New Pfp under creative commons from dani567 on itch.io - if theres any objection to this specific usage please contact)
 [^1]: not arrrow here as in A implies B, just symbolising the connection
 [^2]: ISBN: 9781350441903
+[^3]: oooh shiny card thing for da dopamine >w< (I say sarcastically but i do think it's kinda nice to keep track)
 
